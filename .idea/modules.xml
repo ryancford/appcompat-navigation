@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sysui.iml" filepath="$PROJECT_DIR$/Sysui.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appcompat-navigation.iml" filepath="$PROJECT_DIR$/appcompat-navigation.iml" />
     </modules>
   </component>
 </project>
